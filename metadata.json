@@ -1,0 +1,6 @@
+{
+  "name": "ANY WORK SERVICE",
+  "description": "Complete service marketplace, worker hiring, jobs, e-commerce shop, and Crack Exam preparation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
